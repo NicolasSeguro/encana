@@ -7,3 +7,5 @@ Sitio estático. La página de entrada redirige a *Encounter The Unseen v2*.
 - [Encounter Anexo](Encounter%20Anexo.dc.html)
 
 Publicado en GitHub Pages: https://nicolasseguro.github.io/encana/
+
+Online: https://nicolasseguro.github.io/encana/
